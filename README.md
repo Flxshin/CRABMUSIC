@@ -50,8 +50,7 @@
 
 ---
 
-### **README.md 优化方案**
-```markdown
+
 # Navidrome用户管理系统
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)]()
